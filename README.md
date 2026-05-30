@@ -53,14 +53,7 @@ They don’t scroll through a catalog or fill a form. They read a short line abo
 From there, it’s just a normal conversation.
 
 
-# Screenshots
-
-
-Below is a sample jewelry store setup.
-
-It shows how products appear before the chat starts, and how the flow moves from viewing a piece to sending a message.
-
-Same order a real buyer would experience it in: see it, understand it, message.
+# Screenshots"C:\Users\Hp\OneDrive\Desktop\online store\Screenshot 2026-05-30 143631.png"
 
 ---
 
