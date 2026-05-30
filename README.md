@@ -44,7 +44,7 @@ That’s it.
 
 ## Home Page
 -Simple entry point into services and booking 
-Screenshot 2026-05-30 143631.png
+![Homepage[(online%20store/Screenshot 2026-05-30 143631.png)
 
 ## Services and prices
 -A list of beauty services with prices
