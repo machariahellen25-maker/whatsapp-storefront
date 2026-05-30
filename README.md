@@ -55,10 +55,10 @@ Nails
   -Acrylic nails_Kshs 2000
   -Gel manicure_Kshs 1300
 Screenshot 2026-05-30 143724.png
-A sample lookfrom the Mirror Room Services
+A sample lookfrom the Mirror Room Services with the booking flow
  .Screenshot 2026-05-30 143851.png
 
-### Booking Flow
+### Founder
 Screenshot 2026-05-30 143823.png
 
 
